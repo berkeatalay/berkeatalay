@@ -4,15 +4,15 @@
 
 - 🔭 I’m currently working on imroving my **Data Science Portfolio**
 
-- 🌱 I’m currently learning **Flask, OpenCV, PyTorch**
+- 🌱 I’m currently learning **Flask, Tensorflow**
 
 - 📫 How to reach me **berkeatalay@outlook.com.tr**
 
 
 
-<p align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeatalay&layout=compact&hide=html" alt="berkeatalay" /></p>
+<p align="left"><img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkeatalay&layout=compact&hide=html" alt="berkeatalay" /></p>
 
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkeatalay&show_icons=true" alt="berkeatalay" /></p>
+<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=berkeatalay&show_icons=true" alt="berkeatalay" /></p>
 
 
 
