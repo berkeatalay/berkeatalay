@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on improving my **Data Science Portfolio**
 
-- 🌱 I’m currently learning **Flask, Tensorflow**
+- 🌱 I’m currently learning **Flask**
 
 - 📫 How to reach me **berkeatalay@outlook.com.tr**
 
