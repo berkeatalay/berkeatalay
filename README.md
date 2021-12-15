@@ -1,12 +1,8 @@
 <h1 align="center">Hi 👋, I'm Berke</h1>
-<h3 align="center">Data Scientist, Industrial Engineer</h3>
+<h3 align="center">Industrial Engineer</h3>
 
 
-- 🔭 I’m currently working on improving my **Data Science Portfolio**
-
-- 🌱 I’m currently learning **Flask**
-
-- 📫 How to reach me **berkeatalay@outlook.com.tr**
+I worked as a Business Analyst and now trying to become a software engineer 
 
 
 
