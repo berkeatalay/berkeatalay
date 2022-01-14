@@ -15,3 +15,5 @@ I worked as a Business Analyst and now trying to become a software engineer
 
 <p align="center">
 <a href="https://twitter.com/tormorkor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="tormorkor" height="30" width="30" /></a>
+  
+  <a href="https://app.daily.dev/tormorkor"><img src="https://api.daily.dev/devcards/2adfe43b35b545fea38e1e8480b9dba0.png?r=omz" width="400" alt="Berke Atalay's Dev Card"/></a>
